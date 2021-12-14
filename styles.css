@@ -112,6 +112,65 @@ h1{
   margin-right: auto;
 }
 
+#A3060ti{
+  background-image: url(img/ASUS3060ti.jpg);
+  background-repeat: no-repeat;
+  height: 960px;
+  width: 1280px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#A3070{
+  background-image: url(img/ASUS3070.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#A3070ti{
+  background-image: url(img/ASUS3070ti.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#A3080{
+  background-image: url(img/ASUS3080.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#A3080ti{
+  background-image: url(img/ASUS3080ti.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#A3090{
+  background-image: url(img/ASUS3090.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 table{
 	margin: auto;
