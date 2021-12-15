@@ -172,6 +172,177 @@ h1{
   margin-right: auto;
 }
 
+#E3060{
+  background-image: url(img/EVGA3060.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#E3060ti{
+  background-image: url(img/EVGA3060ti.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#E3070{
+  background-image: url(img/EVGA3070.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#E3070ti{
+  background-image: url(img/EVGA3070ti.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#E3080{
+  background-image: url(img/EVGA3080.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#E3080ti{
+  background-image: url(img/EVGA3080ti.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#E3090{
+  background-image: url(img/EVGA3090.jpg);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#M3060{
+  background-image: url(img/MSI3060.jpg);
+  background-repeat: no-repeat;
+  height: 820px;
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#M3060ti{
+  background-image: url(img/MSI3060ti.jpg);
+  background-repeat: no-repeat;
+  height: 820px;
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#M3070{
+  background-image: url(img/MSI3070.jpg);
+  background-repeat: no-repeat;
+  height: 820px;
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#M3070ti{
+  background-image: url(img/MSI3070ti.jpg);
+  background-repeat: no-repeat;
+  height: 820px;
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#M3080{
+  background-image: url(img/MSI3080.jpg);
+  background-repeat: no-repeat;
+  height: 820px;
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#M3080ti{
+  background-image: url(img/MSI3080ti.jpg);
+  background-repeat: no-repeat;
+  height: 820px;
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#M3090{
+  background-image: url(img/MSI3090.jpg);
+  background-repeat: no-repeat;
+  height: 820px;
+  width: 1024px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#PS5{
+  background-image: url(img/PS5.png);
+  background-repeat: no-repeat;
+  height: 699px;
+  width: 1120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#Xbox{
+  background-image: url(img/xbox.jpg);
+  background-repeat: no-repeat;
+  height: 200px;
+  width: 169px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#oled{
+  background-image: url(img/oled.png);
+  background-repeat: no-repeat;
+  height: 540px;
+  width: 960px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 table{
 	margin: auto;
 	border: 5px solid #000000;
